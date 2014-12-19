@@ -42,26 +42,18 @@
                                     <segue destination="68X-lf-ss3" kind="show" id="jgM-d2-dst"/>
                                 </connections>
                             </button>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="small-9710-2460626.png" translatesAutoresizingMaskIntoConstraints="NO" id="ipN-iO-0wn">
-                                <rect key="frame" x="0.0" y="0.0" width="240" height="128"/>
-                                <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="153" y="90" width="100" height="100"/>
-                                </variation>
-                            </imageView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <variation key="default">
                             <mask key="subviews">
                                 <exclude reference="Ved-yB-FlK"/>
                                 <exclude reference="k2t-hD-BVm"/>
-                                <exclude reference="ipN-iO-0wn"/>
                             </mask>
                         </variation>
                         <variation key="widthClass=compact">
                             <mask key="subviews">
                                 <include reference="Ved-yB-FlK"/>
                                 <include reference="k2t-hD-BVm"/>
-                                <include reference="ipN-iO-0wn"/>
                             </mask>
                         </variation>
                     </view>
@@ -696,7 +688,7 @@
     </resources>
     <inferredMetricsTieBreakers>
         <segue reference="qyz-8a-vZ7"/>
-        <segue reference="Us5-KY-IbH"/>
+        <segue reference="hEP-zX-xaa"/>
         <segue reference="VTJ-UB-Eoc"/>
     </inferredMetricsTieBreakers>
 </document>
