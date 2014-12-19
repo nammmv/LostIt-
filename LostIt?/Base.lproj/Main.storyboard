@@ -695,8 +695,8 @@
         <image name="small-9710-2460626.png" width="99" height="105"/>
     </resources>
     <inferredMetricsTieBreakers>
+        <segue reference="qyz-8a-vZ7"/>
         <segue reference="hEP-zX-xaa"/>
         <segue reference="VTJ-UB-Eoc"/>
-        <segue reference="Ziy-DL-iCq"/>
     </inferredMetricsTieBreakers>
 </document>
