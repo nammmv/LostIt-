@@ -13,6 +13,7 @@
 		D1F9D69C1A4402D900EE9B6E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D1F9D69B1A4402D900EE9B6E /* Images.xcassets */; };
 		D1F9D69F1A4402D900EE9B6E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D1F9D69D1A4402D900EE9B6E /* LaunchScreen.xib */; };
 		D1F9D6AB1A4402DA00EE9B6E /* LostIt_Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1F9D6AA1A4402DA00EE9B6E /* LostIt_Tests.swift */; };
+		D1F9D6B51A44093C00EE9B6E /* small-9710-2460626.png in Resources */ = {isa = PBXBuildFile; fileRef = D1F9D6B41A44093C00EE9B6E /* small-9710-2460626.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		D1F9D6A41A4402DA00EE9B6E /* LostIt?Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "LostIt?Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D1F9D6A91A4402DA00EE9B6E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D1F9D6AA1A4402DA00EE9B6E /* LostIt_Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LostIt_Tests.swift; sourceTree = "<group>"; };
+		D1F9D6B41A44093C00EE9B6E /* small-9710-2460626.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "small-9710-2460626.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		D1F9D6921A4402D900EE9B6E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				D1F9D6B41A44093C00EE9B6E /* small-9710-2460626.png */,
 				D1F9D6931A4402D900EE9B6E /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -195,6 +198,7 @@
 				D1F9D69A1A4402D900EE9B6E /* Main.storyboard in Resources */,
 				D1F9D69F1A4402D900EE9B6E /* LaunchScreen.xib in Resources */,
 				D1F9D69C1A4402D900EE9B6E /* Images.xcassets in Resources */,
+				D1F9D6B51A44093C00EE9B6E /* small-9710-2460626.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -405,6 +409,7 @@
 				D1F9D6B01A4402DA00EE9B6E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D1F9D6B11A4402DA00EE9B6E /* Build configuration list for PBXNativeTarget "LostIt?Tests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +418,7 @@
 				D1F9D6B31A4402DA00EE9B6E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
